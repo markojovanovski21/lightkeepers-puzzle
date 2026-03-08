@@ -47,6 +47,7 @@ public class Grid extends JPanel {
                     } else {
                         button.setBackground(Color.YELLOW);
                     }
+                    button.setFont(new Font("Noto Sans Symbols 2", Font.PLAIN, 20));
                     button.setText("𖡊");
                 } else if (cell.isLit()) {
                     button.setBackground(Color.YELLOW);
