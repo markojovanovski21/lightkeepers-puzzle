@@ -12,7 +12,7 @@ You win by positioning each lightbulb so that no white space remains in the dark
 - Save/Load game
 - Win condition detection
 
-## How to Run:
+## How to Run
 - Make sure you have Java (JDK 25) installed
 - Download the .jar file from the repo
 - Run the game by typing **java -jar Lightkeeper's Puzzle.jar** into the terminal/PowerShell (on Windows) 
